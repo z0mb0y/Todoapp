@@ -1,0 +1,11 @@
+C:\Users\sumit\source\repos\Todoapp\Todoapp\obj\Debug\netcoreapp1.1\Todoapp.csprojResolveAssemblyReference.cache
+C:\Users\sumit\source\repos\Todoapp\Todoapp\obj\Debug\netcoreapp1.1\Todoapp.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\Todoapp\Todoapp\obj\Debug\netcoreapp1.1\Todoapp.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\Todoapp\Todoapp\obj\Debug\netcoreapp1.1\Todoapp.AssemblyInfo.cs
+C:\Users\sumit\source\repos\Todoapp\Todoapp\bin\Debug\netcoreapp1.1\Todoapp.deps.json
+C:\Users\sumit\source\repos\Todoapp\Todoapp\bin\Debug\netcoreapp1.1\Todoapp.runtimeconfig.json
+C:\Users\sumit\source\repos\Todoapp\Todoapp\bin\Debug\netcoreapp1.1\Todoapp.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\Todoapp\Todoapp\bin\Debug\netcoreapp1.1\Todoapp.dll
+C:\Users\sumit\source\repos\Todoapp\Todoapp\bin\Debug\netcoreapp1.1\Todoapp.pdb
+C:\Users\sumit\source\repos\Todoapp\Todoapp\obj\Debug\netcoreapp1.1\Todoapp.dll
+C:\Users\sumit\source\repos\Todoapp\Todoapp\obj\Debug\netcoreapp1.1\Todoapp.pdb
